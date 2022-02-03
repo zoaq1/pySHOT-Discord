@@ -48,8 +48,3 @@ Fixes:
 * Get "clientid" and "clientsecret" from Imgur API 
 
 If You have any other issues or questions, please open an Issue.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
