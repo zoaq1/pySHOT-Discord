@@ -45,6 +45,6 @@ Common Issues:
 
 Fixes:
 * Be patient.
-* Get "clientid" and "clientsecret" from Imgur API 
+* Get "clientid" and "clientsecret" from Imgur API - https://apidocs.imgur.com/
 
 If You have any other issues or questions, please open an Issue.
