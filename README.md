@@ -37,6 +37,7 @@ Or simply double-clicking the file.
 Common Issues:
 * Sometimes takes up to 5 seconds to upload image.
 * Imgur API not setup.
+
 Fixes:
 * Be patient.
 * Get "clientid" and "clientsecret" from Imgur API 
