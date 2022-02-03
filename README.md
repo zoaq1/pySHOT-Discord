@@ -32,6 +32,10 @@ python3 main.py
 
 Or simply double-clicking the file.
 
+* Take a screenshot using any screenshot software. (Make sure it copies to clipboard).
+* Press F7 to copy the "feature" to your clipboard. (You can change the key on line 24)
+* Paste in Discord and have fun :). (ONLY WORKS ON DISCORD)
+
 ## Help
 
 Common Issues:
