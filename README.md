@@ -22,9 +22,10 @@ pip install Pyimgur
 
 ### Executing program
 
-Change ClientID on line 11
-Change ClientSecret on line 12
-Change URL on line 30
+* Change ClientID on line 11
+* Change ClientSecret on line 12
+* Change URL on line 30
+* Change Filename on line 31 (optinal)
 
 ```
 python3 main.py
