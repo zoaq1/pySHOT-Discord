@@ -1,6 +1,6 @@
 # pySHOT DISCORD
 
-Uses Discord "Feature" to Create fake Embed with an image. Example here: https://i.imgur.com/rNbpsB1.png
+Uses Discord "Feature" to Create fake Embed with an image. Example here: https://imgur.com/a/cvMpZec
 
 ### Dependencies
 
